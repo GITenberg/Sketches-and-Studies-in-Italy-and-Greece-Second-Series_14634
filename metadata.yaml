@@ -1,0 +1,44 @@
+_repo: Sketches-and-Studies-in-Italy-and-Greece-Second-Series_14634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+  editor:
+    agent_name: Brown, Horatio Robert Forbes
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '6281'
+    url: http://www.gutenberg.org/2009/agents/6281
+description: Travelogues Collection offers readers a unique glimpse into the diverse
+  landscape, culture and wildlife of the world from the perspective of late 19th and
+  early 20th century esteemed travelers. From the exotic islands of Fiji to the lush
+  jungles of Africa to the bustling streets of New York City, these picturesque backdrops
+  set the scene for amusing, and at times prejudiced, anecdotes of adventure, survival
+  and camaraderie. Photographs and whimsical illustrations complement the descriptive
+  text, bringing to life the colorful characters encountered along the way. The Shelf2Life
+  Travelogues Collection allows readers to embark on a voyage into the past to experience
+  the world as it once was and meet the people who inhabited it.
+gutenberg_issued: '2005-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Greece -- Description and travel'
+- !lcc 'DF'
+title: Sketches and Studies in Italy and Greece, Second Series
+url: http://www.gutenberg.org/ebooks/14634
